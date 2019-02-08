@@ -12,3 +12,5 @@ You can also choose from 3 original car models to race in.
 
 WASD to drive, editor works like any other basic 3D modeler. XBox controller also supported IIRC.
 
+![alt text](https://i.imgur.com/va882V0.png)
+![alt text](https://i.imgur.com/YKCMkU5.png)
