@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: d78405a1cac1f314d82a88bab64f434d
+folderAsset: yes
+timeCreated: 1496690896
+licenseType: Pro
+PluginImporter:
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 1
+        settings:
+          CPU: AnyCPU
+          DefaultValueInitialized: true
+          OS: OSX
+    data:
+      first:
+        Standalone: OSXIntel
+      second:
+        enabled: 1
+        settings: {}
+    data:
+      first:
+        Standalone: OSXIntel64
+      second:
+        enabled: 1
+        settings: {}
+    data:
+      first:
+        Standalone: OSXUniversal
+      second:
+        enabled: 1
+        settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

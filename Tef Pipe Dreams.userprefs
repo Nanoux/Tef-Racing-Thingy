@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\Standard.shader">
+    <Files>
+      <File FileName="Assets\Shaders\Standard.shader" Line="1" Column="1" />
+      <File FileName="Assets\scripts\prodceduralLand\CurveMath.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\prodceduralLand\BezierBit.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Bridge.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\levelmaker\EditorUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DefferedFix.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\StencilShaders\Masks\StencilMask_1.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\StencilShaders\Portal_1_Shaders\Stencil_01_Normal-Diffuse.shader" Line="1" Column="1" />
+      <File FileName="Assets\materials\Fix.shader" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\FinishLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\levelmaker\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\levelmaker\Actor.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\cam.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Networking\initplaya.cs" Line="31" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
